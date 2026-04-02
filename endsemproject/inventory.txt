@@ -1,0 +1,52 @@
+1,Apple,0.99,496,Groceries,images/apple.png
+11,Milk,1.49,299,Groceries,images/milk.png
+13,Orange Juice,3.99,117,Groceries,images/orangejuice.png
+17,Bread,2.25,72,Groceries,images/bread.png
+28,Eggs (Dozen),2.99,180,Groceries,images/eggs.png
+39,Cereal,3.49,140,Groceries,images/cereal.png
+40,Chilli Milli,3,1111,Groceries,images/chillimilli.png
+2,Smartphone,499.99,24,Electronics,images/smartphone.png
+12,Headphones,39.99,29,Electronics,images/headphones.png
+14,Laptop,799.99,0,Electronics,images/laptop.png
+16,Bluetooth Speaker,29.99,47,Electronics,images/speaker.png
+20,Washing Machine,1200,13,Electronics,images/washingmachine.png
+29,Monitor,159.99,22,Electronics,images/monitor.png
+3,T-Shirt,12.99,149,Clothing & Accessories,images/tshirt.png
+31,Running Shoes,59.99,70,Clothing & Accessories,images/runningshoes.png
+4,Cookware Set,89.99,40,Home & Kitchen,images/cookware.png
+21,Coffee Maker,49.99,34,Home & Kitchen,images/coffeemaker.png
+32,Vacuum Cleaner,129.99,15,Home & Kitchen,images/vacuumcleaner.png
+5,Face Wash,5.49,99,Health & Beauty,images/facewash.png
+15,Toothpaste,1.25,199,Health & Beauty,images/toothpaste.png
+22,Shampoo,4.99,150,Health & Beauty,images/shampoo.png
+30,Hand Sanitizer,1.99,250,Health & Beauty,images/handsanitizer.png
+33,Sunscreen,6.49,94,Health & Beauty,images/sunscreen.png
+6,Football,19.99,59,Sports & Outdoors,images/football.png
+23,Basketball,24.99,45,Sports & Outdoors,images/basketball.png
+34,Table Tennis Racket,14.99,40,Sports & Outdoors,images/ttracket.png
+7,Teddy Bear,15.99,75,Toys & Games,images/teddybear.png
+24,Action Figure,18.49,59,Toys & Games,images/actionfigure.png
+35,Stuffed Dinosaur,13.99,64,Toys & Games,images/stuffeddinosaur.png
+8,Novel Book,7.99,198,Books & Stationery,images/novel.png
+18,Notebook,0.89,300,Books & Stationery,images/notebook.png
+19,Ball Pen,0.49,398,Books & Stationery,images/ballpen.png
+25,Notebook Pack,5.99,210,Books & Stationery,images/notebookpack.png
+36,Highlighter Set,3.49,190,Books & Stationery,images/highlighter.png
+41,Women Empowerment Novels,13,52,Books & Stationery,images/womennovels.png
+9,Car Wax,10.49,70,Automotive,images/carwax.png
+26,Car Charger,9.99,85,Automotive,images/carcharger.png
+37,Windshield Cleaner,5.79,60,Automotive,images/windshieldcleaner.png
+10,Dog Food,25.99,88,Pet Supplies,images/dogfood.png
+27,Cat Food,19.99,77,Pet Supplies,images/catfood.png
+38,Dog Leash,7.99,88,Pet Supplies,images/dogleash.png
+43,OXVA XLIM 2,7.99,88,Tobacco & Smoking Products,images/xlim2.png
+44,OXVA XLIM GO,7.99,88,Tobacco & Smoking Products,images/xlimgo.png
+45,OXVA XLIM,7.99,88,Tobacco & Smoking Products,images/xlim.png
+46,DRAG NANO 2,7.99,88,Tobacco & Smoking Products,images/drag2.png
+47,RENOVO ZERO 2,7.99,87,Tobacco & Smoking Products,images/renovo.png
+48,G3 LITE,7.99,88,Tobacco & Smoking Products,images/g3lite.png
+49,Tokyo Mango Pinapple,7.99,88,Tobacco & Smoking Products,images/mp.png
+50,Tokyo Pinapple,7.99,88,Tobacco & Smoking Products,images/pinapple.png
+51,Tokyo Passionfruit,7.99,88,Tobacco & Smoking Products,images/passionfruit.png
+52,Dunhill,7.99,87,Tobacco & Smoking Products,images/dunhill.png
+53,Milano Double Switch,7.99,86,Tobacco & Smoking Products,images/milano.png
