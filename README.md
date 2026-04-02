@@ -1,46 +1,44 @@
 # GoCart - Shopping Cart Management System
 
 **Project Title:** Shopping Cart System  
-**Project Domain:** E-Commerce Software Development  
+**Project Domain:** E-commerce Software Development  
 **Implementation:** C++ with WinForms (C++/CLI)  
 **Academic Level:** 2nd Semester OOP Course
 
 ## Project Description
 
-GoCart is a desktop-based **Shopping Cart System** developed using **C++** and **Windows Forms (WinForms)**. It provides a complete e-commerce-like experience with separate **Customer** and **Admin** interfaces.
+GoCart is a **Windows Forms (WinForms)** based Shopping Cart System developed in **C++** using **C++/CLI**. 
 
-The application demonstrates strong **Object-Oriented Programming (OOP)** principles including encapsulation, inheritance, polymorphism, and abstraction. It features a clean graphical user interface, real-time cart updates, secure authentication, wishlist, discounts, and invoice generation.
+The application features separate **Customer** and **Admin** interfaces, providing an interactive GUI experience for managing products, shopping cart, wishlist, and orders. It strongly demonstrates core **Object-Oriented Programming (OOP)** concepts such as encapsulation, inheritance, polymorphism, and abstraction.
 
-This project goes beyond a basic cart system by including advanced functionalities such as product management, order history, promo codes, and robust error handling.
+The system goes beyond basic cart functionality by including wishlist, discount & promo codes, invoice generation, search/filter, and robust error handling.
 
 ## Key Features
 
 ### Admin Interface
 - Add, update, and delete products
 - Manage inventory
-- View all orders and order history
-- Manage users (basic)
+- View orders and order history
 
 ### Customer Interface
-- Secure user login / logout
-- Browse and search products with filters
-- Add products to **Shopping Cart**
-- Add products to **Wishlist**
-- Modify cart quantities and remove items
+- Secure login and logout
+- Browse products with search and filter options
+- Add items to **Shopping Cart** or **Wishlist**
+- Modify quantities, remove items from cart
 - Apply **discounts** and **promo codes**
 - Real-time total calculation
 - View **Order History**
-- Generate and view **Invoice**
+- Generate **Invoice** for completed orders
 
-### Common Features
-- User-friendly WinForms GUI with multiple forms
-- Real-time cart and wishlist updates
-- Robust error handling and validation
-- Clean separation between UI, business logic, and data layers
+### General Features
+- User-friendly graphical interface using WinForms
+- Real-time updates for cart and wishlist
+- Robust error handling and input validation
+- Clean separation of UI, business logic, and data
 
 ## Technologies Used
 
-- **Language**: C++ (with C++/CLI)
+- **Language**: C++ (C++/CLI)
 - **GUI Framework**: Windows Forms (WinForms)
 - **IDE**: Visual Studio
 - **Paradigm**: Object-Oriented Programming (OOP)
